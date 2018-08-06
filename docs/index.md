@@ -2,16 +2,16 @@
 layout: post
 title: Fort Munro Documentation for Developers
 ---
--sample
-  -testing
-  -hello
+
 <html>
 <head>
     <title>{{ page.title }}</title>
 </head>
 <body> 
 <p>{{ site.time | date_to_long_string }}</p>
+<header>
 <h1> Getting started with development</h1>
+</header>
     <h3>Themes Used</h3>
     <h3>Modules Used</h3>
     <h3>Drupal Online Resources</h3>
