@@ -16,11 +16,15 @@ title: Fort Munro Documentation for Developers
 
 ### Bootstrap
 * [Getting started with Bootstrap][bootstrap] 
+* [Bootstrap Components][components]
+* [BootstrapCDN][CDN]
 * [Font Awesome][font]
 * [Bootwatch][]
 
+[CDN]: https://www.bootstrapcdn.com/
+[components]: https://getbootstrap.com/docs/4.0/components/ 
 [font]: https://fontawesome.com/
-[Bootwatch]: href="https://bootswatch.com/
+[Bootwatch]: https://bootswatch.com/
 [bootstrap]: https://getbootstrap.com/docs/4.0/getting-started/introduction/
 
 ### Markdown
