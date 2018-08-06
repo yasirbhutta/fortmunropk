@@ -2,17 +2,12 @@
 layout: post
 title: Fort Munro Documentation for Developers
 ---
-<!DOCTYPE html>
-<html lang="en">
+
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" >
 </head>
-<body>
-    <h3></h3>
+<body> 
     <h3>Themes Used</h3>
     <h3>Modules Used</h3>
     <h3>Online Resoruces</h3>
