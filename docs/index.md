@@ -2,7 +2,9 @@
 layout: post
 title: Fort Munro Documentation for Developers
 ---
-
+-sample
+  -testing
+  -hello
 <html>
 <head>
     <title>{{ page.title }}</title>
@@ -24,8 +26,6 @@ title: Fort Munro Documentation for Developers
       <li><a href="https://bootswatch.com/">bootswatch</a></li>
       <li><a href="https://www.bootstrapcdn.com/">BootstrapCDN</a></li>
   </ul>
-  -sample
-  -testing
-  -hello
+  
 </body>
 </html>
