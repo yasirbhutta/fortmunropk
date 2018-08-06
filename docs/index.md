@@ -9,9 +9,9 @@ title: Fort Munro Documentation for Developers
 ## Modules Used
 
 ## Further Reading
-*[Drupal 8 User Guide][user] 
-*[Font Awesome][font]
-*[Bootwatch][]
+* [Drupal 8 User Guide][user] 
+* [Font Awesome][font]
+* [Bootwatch][]
 
 [user]: https://www.drupal.org/docs/user_guide/en/index.html  
 [font]: https://fontawesome.com/
