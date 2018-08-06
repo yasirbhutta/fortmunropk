@@ -10,7 +10,7 @@ title: Fort Munro Documentation for Developers
 <body> 
     <h3>Themes Used</h3>
     <h3>Modules Used</h3>
-    <h3>Online Resoruces</h3>
+    <h3>Online Resourses</h3>
     <ul>
       <li><a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/">Getting started with Bootstrap</a></li>
       <li><a href="https://fontawesome.com/">Font Awesome</a></li>
