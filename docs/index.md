@@ -8,6 +8,7 @@ title: Fort Munro Documentation for Developers
     <title>{{ page.title }}</title>
 </head>
 <body> 
+<h1> Getting started with development</h1>
     <h3>Themes Used</h3>
     <h3>Modules Used</h3>
     <h3>Online Resourses</h3>
