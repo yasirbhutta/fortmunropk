@@ -8,10 +8,10 @@ title: Fort Munro Documentation for Developers
     <title>{{ page.title }}</title>
 </head>
 <body> 
-<p>{{ site.time | date_to_long_string }}</p>
 <header>
 <h1> Getting started with development</h1>
 </header>
+<p>{{ site.time | date_to_long_string }}</p>
     <h3>Themes Used</h3>
     <h3>Modules Used</h3>
     <h3>Drupal Online Resources</h3>
