@@ -11,6 +11,10 @@ title: Fort Munro Documentation for Developers
 <h1> Getting started with development</h1>
     <h3>Themes Used</h3>
     <h3>Modules Used</h3>
+    <h3>Drupal Online Resources</h3>
+    <ul>
+      <li><a href="https://www.drupal.org/docs/user_guide/en/index.html">Drupal 8 User Guide</a></li>
+      </ul>
     <h3>Online Resourses</h3>
     <ul>
       <li><a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/">Getting started with Bootstrap</a></li>
