@@ -6,7 +6,6 @@ title: Fort Munro Documentation for Developers
 <html>
 <head>
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" >
 </head>
 <body> 
     <h3>Themes Used</h3>
