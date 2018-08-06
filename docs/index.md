@@ -17,18 +17,11 @@ title: Fort Munro Documentation for Developers
     <h3>Modules Used</h3>
     <h3>Online Resoruces</h3>
     <ul>
-      <li><a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/" class="list-group-item list-group-item-action">Getting started with Bootstrap</a></li>
-      <li><a href="https://fontawesome.com/" class="list-group-item list-group-item-action">Font Awesome</a></li>
+      <li><a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/">Getting started with Bootstrap</a></li>
+      <li><a href="https://fontawesome.com/">Font Awesome</a></li>
+      <li><a href="https://getbootstrap.com/docs/4.0/components/">Bootstrap Components</a></li>
+      <li><a href="https://bootswatch.com/">bootswatch</a></li>
+      <li><a href="https://www.bootstrapcdn.com/">BootstrapCDN</a></li>
   </ul>
-    <div class="list-group">
-            <a href="http://getbootstrap.com/" class="list-group-item list-group-item-action active">
-              Bootstrap
-            </a>
-            
-            <a href="https://getbootstrap.com/docs/4.0/components/" class="list-group-item list-group-item-action">Bootstrap Components</a>
-            
-            <a href="https://bootswatch.com/" class="list-group-item list-group-item-action">bootswatch</a>
-            <a href="https://www.bootstrapcdn.com/" class="list-group-item list-group-item-action">BootstrapCDN</a>
-          </div>
 </body>
 </html>
