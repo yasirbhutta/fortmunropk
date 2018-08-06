@@ -19,5 +19,5 @@ title: Fort Munro Documentation for Developers
 [font]: https://fontawesome.com/
 [Bootwatch]: href="https://bootswatch.com/
 [bootstrap]: https://getbootstrap.com/docs/4.0/getting-started/introduction/
-[Markdown]: https://guides.github.com/features/mastering-markdown/
+[markdown1]: https://guides.github.com/features/mastering-markdown/
 [md2]: https://www.markdownguide.org/
