@@ -4,8 +4,14 @@ title: Fort Munro Documentation for Developers
 # Getting started with development
 
 ## Themes Used
+* [Bootstrap][]
+
+[Bootstrap]: https://www.drupal.org/project/bootstrap 
 
 ## Modules Used
+* [Views Bootstrap][v_bootstrap]
+
+[v_bootstrap]: https://www.drupal.org/project/views_bootstrap
 
 ## Further Reading
 
