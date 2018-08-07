@@ -9,6 +9,10 @@ title: Fort Munro Documentation for Developers
 
 ## Further Reading
 
+* [Template for website][template]
+
+[template]: template.html
+
 ### Drupal
 * [Drupal 8 User Guide][user]
 
