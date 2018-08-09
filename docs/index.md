@@ -32,7 +32,7 @@ title: Fort Munro Documentation for Developers
 * [Bootwatch][]
 
 [CDN]: https://www.bootstrapcdn.com/
-[components]: https://getbootstrap.com/docs/4.0/components/ 
+[components]: https://getbootstrap.com/docs/3.3/components/
 [font]: https://fontawesome.com/
 [Bootwatch]: https://bootswatch.com/
 [bootstrap]: https://getbootstrap.com/docs/4.0/getting-started/introduction/
