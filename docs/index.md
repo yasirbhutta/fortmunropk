@@ -31,12 +31,15 @@ title: Fort Munro Documentation for Developers
 
 ## Documentating your project
 
-### Markdown
+1. ### Markdown
 
-* [Mastering Markdown][md1]
-* [Markdown Guide][md2]
+    * [Mastering Markdown][md1]
+    * [Markdown Guide][md2]
 
-### [Images][img1]
+    [md1]: https://guides.github.com/features/mastering-markdown/
+    [md2]: https://www.markdownguide.org/
+
+2. ### [Images][img1]
 
 [img1]: user-interface-standards/images.html
 
@@ -48,44 +51,40 @@ title: Fort Munro Documentation for Developers
 
 Commonly used tools to aid in web development.
 
-### Visual Studio Code
+1. ### Visual Studio Code
 
-[Download][vs_download]
+    * [Download][vs_download]
 
-[vs_download]: https://code.visualstudio.com/download
+    [vs_download]: https://code.visualstudio.com/download
 
-### GitHub Desktop
+2. ### GitHub Desktop
 
-[Download][gh_download]
+    * [Download][gh_download]
 
-[gh_download]: https://desktop.github.com/
-
-[md1]: https://guides.github.com/features/mastering-markdown/
-[md2]: https://www.markdownguide.org/
+    [gh_download]: https://desktop.github.com/
 
 ## Further Reading
 
-### Drupal
+1. ### Drupal
 
-* [Drupal 8 User Guide][user]
+    * [Drupal 8 User Guide][user]
 
-[user]: https://www.drupal.org/docs/user_guide/en/index.html 
+    [user]: https://www.drupal.org/docs/user_guide/en/index.html 
 
-### Bootstrap
+2. ### Bootstrap
 
-* [Getting started with Bootstrap][bootstrap]
+    * [Getting started with Bootstrap][bootstrap]
 
-* [Bootstrap Components][components]
+    * [Bootstrap Components][components]
 
-* [BootstrapCDN][CDN]
+    * [BootstrapCDN][CDN]
 
-* [Font Awesome][font]
+    * [Font Awesome][font]
 
-* [Bootwatch][]
+    * [Bootwatch][]
 
 [CDN]: https://www.bootstrapcdn.com/
 [components]: https://getbootstrap.com/docs/3.3/components/
 [font]: https://fontawesome.com/
 [Bootwatch]: https://bootswatch.com/
 [bootstrap]: https://getbootstrap.com/docs/4.0/getting-started/introduction/
-
