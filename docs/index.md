@@ -3,13 +3,41 @@ title: Fort Munro Documentation for Developers
 ---
 # Develop
 
+## System requirements
+
+* ###Boostrap 3.37
+* ###Drupal 8.0
+
+### Themes Used
+
+* [Bootstrap][]
+
+[Bootstrap]: https://www.drupal.org/project/bootstrap 
+
+### Modules Used
+
+* [Views Bootstrap][v_bootstrap]
+
+[v_bootstrap]: https://www.drupal.org/project/views_bootstrap
+
 ## Coding standards
 
 ## User interface standards
 
-### [Images][]
+## Documentating your project
 
-[Images]: user-interface-standards/images.html
+### Markdown
+
+* [Mastering Markdown][md1]
+* [Markdown Guide][md2]
+
+### [Images][img1]
+
+[img1]: user-interface-standards/images.html
+
+## [Local server setup][lss]
+
+[lss]: https://www.drupal.org/docs/develop/local-server-setup
 
 ## Development tools
 
@@ -27,17 +55,10 @@ Commonly used tools to aid in web development.
 
 [gh_download]: https://desktop.github.com/
 
-## Themes Used
+[md1]: https://guides.github.com/features/mastering-markdown/
+[md2]: https://www.markdownguide.org/
 
-* [Bootstrap][]
-
-[Bootstrap]: https://www.drupal.org/project/bootstrap 
-
-## Modules Used
-
-* [Views Bootstrap][v_bootstrap]
-
-[v_bootstrap]: https://www.drupal.org/project/views_bootstrap
+## Further Reading
 
 ### Drupal
 
@@ -63,12 +84,3 @@ Commonly used tools to aid in web development.
 [Bootwatch]: https://bootswatch.com/
 [bootstrap]: https://getbootstrap.com/docs/4.0/getting-started/introduction/
 
-### Markdown
-
-* [Mastering Markdown][md1]
-* [Markdown Guide][md2]
-
-[md1]: https://guides.github.com/features/mastering-markdown/
-[md2]: https://www.markdownguide.org/
-
-## Further Reading
