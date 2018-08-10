@@ -3,8 +3,6 @@ title: Fort Munro Documentation for Developers
 ---
 # Develop
 
-## 
-
 ## System requirements
 
 ### Boostrap 3.37
