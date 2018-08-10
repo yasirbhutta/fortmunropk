@@ -1,4 +1,6 @@
-# Documentation
+# [Documentation][docs]
+
+[docs]: ../index.html
 
 ## Modules
 
