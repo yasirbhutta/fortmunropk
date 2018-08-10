@@ -37,6 +37,10 @@ title: Fort Munro Documentation for Developers
 
 ## User interface standards
 
+1. ### [Images][img1]
+
+[img1]: user-interface-standards/images.html
+
 ## Documentating your project
 
 1. ### Markdown
@@ -46,10 +50,6 @@ title: Fort Munro Documentation for Developers
 
     [md1]: https://guides.github.com/features/mastering-markdown/
     [md2]: https://www.markdownguide.org/
-
-2. ### [Images][img1]
-
-[img1]: user-interface-standards/images.html
 
 ## [Local server setup][lss]
 
