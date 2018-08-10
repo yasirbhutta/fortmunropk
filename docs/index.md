@@ -12,7 +12,7 @@ title: Fort Munro Documentation for Developers
 ### Drupal 8.0
 
 * [Drupal 8 User Guide][user]
- hh
+
 [user]: https://www.drupal.org/docs/user_guide/en/index.html 
 
 ### Themes Used
