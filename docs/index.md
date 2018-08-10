@@ -66,8 +66,12 @@ Commonly used tools to aid in web development.
 2. ### GitHub Desktop
 
     * [Download][gh_download]
+    * [GitHub repository][gh_resp]
+    * [Cloinging a repository][gh_clone]
 
     [gh_download]: https://desktop.github.com/
+    [gh_resp]: https://github.com/yasirbhutta/fortmunropk
+    [gh_clone]: https://help.github.com/articles/cloning-a-repository/
 
 ## Further Reading
 
