@@ -1,18 +1,27 @@
 ---
 title: Fort Munro Documentation for Developers
 ---
+# Develop
 
-# Development tools
+## Coding standards
+
+## User interface standards
+
+### [Images][]
+
+[Images]: user-interface-standards/images.html
+
+## Development tools
 
 Commonly used tools to aid in web development.
 
-## Visual Studio Code
+### Visual Studio Code
 
 [Download][]
 
 [Download]: https://code.visualstudio.com/download
 
-## GitHub Desktop
+### GitHub Desktop
 
 [Download][]
 
