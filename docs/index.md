@@ -96,3 +96,5 @@ Commonly used tools to aid in web development.
 [font]: https://fontawesome.com/
 [Bootwatch]: https://bootswatch.com/
 [bootstrap]: https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+## Guide maintainers
