@@ -5,19 +5,27 @@ title: Fort Munro Documentation for Developers
 
 ## System requirements
 
-1. ### Boostrap 3.37
+1. ### Boostrap 3.3.7
+
+    * [Getting Started][b_gs]
+    * [CSS][b_css]
+    * [Compnents][b_components]
+
+    [b_components]: http://bootstrapdocs.com/v3.3.6/docs/components/  
+    [b_gs]: http://bootstrapdocs.com/v3.3.6/docs/getting-started/
+    [b_css]: http://bootstrapdocs.com/v3.3.6/docs/css/
 
 2. ### Drupal 8.0
 
     * [Drupal 8 User Guide][user]
 
-    [user]: https://www.drupal.org/docs/user_guide/en/index.html 
+    [user]: https://www.drupal.org/docs/user_guide/en/index.html  
 
 3. ### Themes Used
 
     * [Bootstrap][]
 
-    [Bootstrap]: https://www.drupal.org/project/bootstrap 
+    [Bootstrap]: https://www.drupal.org/project/bootstrap  
 
 4. ### Modules Used
 
