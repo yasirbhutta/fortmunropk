@@ -27,11 +27,9 @@ title: Fort Munro Documentation for Developers
 
     [Bootstrap]: https://www.drupal.org/project/bootstrap  
 
-4. ### Modules Used
+4. ### [Modules][d_modules]
 
-    * [Views Bootstrap][v_bootstrap]
-
-    [v_bootstrap]: https://www.drupal.org/project/views_bootstrap
+[d_modules]:    system-requirements/modules.html
 
 ## Coding standards
 
