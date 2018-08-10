@@ -17,15 +17,15 @@ Commonly used tools to aid in web development.
 
 ### Visual Studio Code
 
-[Download][]
+[Download][vs_download]
 
-[Download]: https://code.visualstudio.com/download
+[vs_download]: https://code.visualstudio.com/download
 
 ### GitHub Desktop
 
-[Download][]
+[Download][gh_download]
 
-[Download]: https://desktop.github.com/
+[gh_download]: https://desktop.github.com/
 
 ## Themes Used
 
@@ -39,12 +39,6 @@ Commonly used tools to aid in web development.
 
 [v_bootstrap]: https://www.drupal.org/project/views_bootstrap
 
-## Further Reading
-
-* [Template for website][template]
-
-[template]: template.html
-
 ### Drupal
 
 * [Drupal 8 User Guide][user]
@@ -53,10 +47,14 @@ Commonly used tools to aid in web development.
 
 ### Bootstrap
 
-* [Getting started with Bootstrap][bootstrap] 
+* [Getting started with Bootstrap][bootstrap]
+
 * [Bootstrap Components][components]
+
 * [BootstrapCDN][CDN]
+
 * [Font Awesome][font]
+
 * [Bootwatch][]
 
 [CDN]: https://www.bootstrapcdn.com/
@@ -72,3 +70,5 @@ Commonly used tools to aid in web development.
 
 [md1]: https://guides.github.com/features/mastering-markdown/
 [md2]: https://www.markdownguide.org/
+
+## Further Reading
