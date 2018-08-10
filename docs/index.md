@@ -18,8 +18,6 @@ Commonly used tools to aid in web development.
 
 [Download]: https://desktop.github.com/
 
-# Getting started with development
-
 ## Themes Used
 
 * [Bootstrap][]
