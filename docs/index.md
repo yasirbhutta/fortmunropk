@@ -77,9 +77,11 @@ Commonly used tools to aid in web development.
 
 1. ### Drupal
 
+    * [Drupal online resources][drupal]
     * [Drupal 8 User Guide][user]
 
-    [user]: https://www.drupal.org/docs/user_guide/en/index.html 
+    [user]: https://www.drupal.org/docs/user_guide/en/index.html  
+    [drupal]: resources/drupal.md
 
 2. ### Bootstrap
 
