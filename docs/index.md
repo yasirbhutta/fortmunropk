@@ -29,9 +29,16 @@ title: Fort Munro Documentation for Developers
 
 4. ### [Modules][d_modules]
 
+5. ### [Content types][d_contents]
+
 [d_modules]:    system-requirements/modules.html
+[d_contents]:   system-requirements/content-types.html
 
 ## Coding standards
+
+### [Markdown Cheat sheet][mcs]
+
+[mcs]: standards/mardown.html
 
 ## User interface standards
 
