@@ -4,7 +4,7 @@
 
 ## Content Types
 
-### Front page slide
+### **Front page slide**
 
 #### Fields
 
