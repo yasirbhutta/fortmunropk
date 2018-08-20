@@ -7,6 +7,13 @@
 
 ## Facebook
 
+* slider for page:        820 x 312                
+* slider for group:          
+
 ## Twitter
 
+* slider
+
 ## Google Plus
+
+* slider
