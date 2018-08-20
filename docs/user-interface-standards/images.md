@@ -22,6 +22,9 @@
 
 ## Online resources
 
+
+* [Image place holder][lnk2]
 * [Social media image dimentsions sizes][lnk1]
 
+[lnk2]: https://imgplaceholder.com/
 [lnk1]: https://postcron.com/en/blog/social-media-image-dimensions-sizes/
