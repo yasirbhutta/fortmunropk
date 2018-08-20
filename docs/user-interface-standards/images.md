@@ -7,7 +7,9 @@
 
 ## Facebook
 
-* slider for page:        820 x 312                
+* slider for page:        820 x 312  
+![Facebook header]
+(https://via.placeholder.com/820x3128)
 * slider for group:          
 
 ## Twitter
