@@ -9,7 +9,7 @@
 
 * slider for page:        820 x 312  
 ![Facebook header]
-(https://via.placeholder.com/820x3128)
+(https://octodex.github.com/images/yaktocat.png)
 * slider for group:          
 
 ## Twitter
