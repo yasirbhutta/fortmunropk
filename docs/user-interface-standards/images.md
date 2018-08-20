@@ -5,7 +5,7 @@
 * slider:        1650 x 550    512KB
 * Tile images:   370 x 222
 
-[![ImgPlaceholder](https://imgplaceholder.com/370x222)]
+[![ImgPlaceholder](https://imgplaceholder.com/370x222)](https://imgplaceholder.com/370x222)
 
 
 ## Facebook
