@@ -19,3 +19,9 @@
 ## Google Plus
 
 * slider
+
+## Online resources
+
+* [Social media image dimentsions sizes][lnk1]
+
+[lnk1]: https://postcron.com/en/blog/social-media-image-dimensions-sizes/
