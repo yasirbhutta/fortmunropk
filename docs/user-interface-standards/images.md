@@ -7,6 +7,9 @@
 
 [![ImgPlaceholder](https://imgplaceholder.com/370x222)](https://imgplaceholder.com/370x222)
 
+## computer screen
+
+* 1600 x 1200
 
 ## Facebook
 
@@ -27,7 +30,12 @@
 
 
 * [Image place holder][lnk2]
+* [Online image resizer][lnk3]
 * [Social media image dimentsions sizes][lnk1]
+* [Standard image sizes][lnk4]
 
+[lnk3]: http://resizeimage.net/
+[lnk4]: https://www.fileformat.info/tip/web/imagesize.htm
 [lnk2]: https://imgplaceholder.com/
+
 [lnk1]: https://postcron.com/en/blog/social-media-image-dimensions-sizes/
