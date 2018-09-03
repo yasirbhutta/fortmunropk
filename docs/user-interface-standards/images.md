@@ -4,8 +4,6 @@
 
 * slider:        1650 x 550    512KB
 
-[![Img1650x550](https://imgplaceholder.com/1650x550)](https://imgplaceholder.com/1650x550)
-
 * Profile photo: 150 x 180px   512KB
 
 [![Img150x180](https://imgplaceholder.com/150x180)](https://imgplaceholder.com/150x180)
@@ -21,8 +19,9 @@
 ## Facebook
 
 * slider for page:        820 x 312  
-![Facebook header]
-(https://octodex.github.com/images/yaktocat.png)
+
+[![Img820X312](https://imgplaceholder.com/820X312)](https://imgplaceholder.com/820X312)
+
 * slider for group:          
 
 ## Twitter
