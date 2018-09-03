@@ -3,6 +3,7 @@
 ## website
 
 * slider:        1650 x 550    512KB
+* Profile photo: 150 x 180px   512KB
 * Tile images:   370 x 222
 
 [![ImgPlaceholder](https://imgplaceholder.com/370x222)](https://imgplaceholder.com/370x222)
