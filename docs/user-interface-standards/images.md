@@ -20,7 +20,7 @@
 
 * slider for page:        820 x 312  
 
-[![Img820X312](https://imgplaceholder.com/820X312)](https://imgplaceholder.com/820X312)
+[![Img820x312](https://imgplaceholder.com/820x312)](https://imgplaceholder.com/820x312)
 
 * slider for group:          
 
