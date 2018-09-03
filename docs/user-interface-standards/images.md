@@ -3,9 +3,13 @@
 ## website
 
 * slider:        1650 x 550    512KB
+
+[![Img1650x550](https://imgplaceholder.com/1650x550)](https://imgplaceholder.com/1650x550)
+
 * Profile photo: 150 x 180px   512KB
 
 [![Img150x180](https://imgplaceholder.com/150x180)](https://imgplaceholder.com/150x180)
+
 * Tile images:   370 x 222
 
 [![ImgPlaceholder](https://imgplaceholder.com/370x222)](https://imgplaceholder.com/370x222)
