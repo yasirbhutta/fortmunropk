@@ -3,6 +3,10 @@
 ## website
 
 * slider:        1650 x 550    512KB
+* Tile images:   275 x 183
+
+[![ImgPlaceholder](https://imgplaceholder.com/370x222)](https://imgplaceholder.com/275x183)
+
 * Tile images:   370 x 222
 
 [![ImgPlaceholder](https://imgplaceholder.com/370x222)](https://imgplaceholder.com/370x222)
